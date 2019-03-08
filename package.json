@@ -1,0 +1,21 @@
+{
+  "name": "tdd-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^24.1.0"
+  },
+  "dependencies": {
+    "eslint-config-redacademy": "^0.3.5"
+  }
+}

@@ -1,0 +1,9 @@
+
+#VScode
+.DS_Store
+.vscode
+
+
+
+# node.js
+node_modules/

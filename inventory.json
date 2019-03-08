@@ -1,0 +1,83 @@
+{
+  "coinBox": {
+    "toonies": 50,
+    "loonies": 50,
+    "quarters": 50,
+    "dimes": 50,
+    "nickels": 50
+  },
+  "inventory": [
+    {
+      "ItemCode": "A1",
+      "ItemName": "Original Cheetos",
+      "ItemPrice": 1.75,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "A2",
+      "ItemName": "Jalepeno Cheetos",
+      "ItemPrice": 2.25,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "A3",
+      "ItemName": "Jalepeno Lime Cheetos",
+      "ItemPrice": 2.5,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "B1",
+      "ItemName": "Crunchy Cheetos",
+      "ItemPrice": 3.75,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "B2",
+      "ItemName": "Flaming Hot Cheetos",
+      "ItemPrice": 1.75,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "B3",
+      "ItemName": "Xtra Flaming Hot Cheetos",
+      "ItemPrice": 2.0,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "C1",
+      "ItemName": "BBQ Cheetos",
+      "ItemPrice": 2.5,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "C2",
+      "ItemName": "Cheetos Paws",
+      "ItemPrice": 3.15,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "C3",
+      "ItemName": "Baked Cheetos",
+      "ItemPrice": 1.75,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "D1",
+      "ItemName": "Vegan Cheetos",
+      "ItemPrice": 2.0,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "D2",
+      "ItemName": "White Chedder Cheetos",
+      "ItemPrice": 2.5,
+      "ItemQuantity": 10
+    },
+    {
+      "ItemCode": "D3",
+      "ItemName": "Chipotle Ranch Cheetos",
+      "ItemPrice": 3.15,
+      "ItemQuantity": 10
+    }
+  ]
+}
