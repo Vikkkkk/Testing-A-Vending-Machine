@@ -36,10 +36,10 @@ describe("VendingMachine", () => {
       });
     });
 
-    describe("when user input A5 ", () => {
+    describe("when user input A6 ", () => {
       it("Should throw error: invalid Itemcode", () => {
         expect(() => {
-          test.subject.userSelection("A5");
+          test.subject.userSelection("A6");
         }).toThrow("Invalid ItemCode");
       });
     });
